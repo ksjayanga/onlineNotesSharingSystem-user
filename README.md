@@ -1,3 +1,3 @@
-Webpage URL - http://learningsystem.free.nf/
-Username - johndoe
-Password - user
+Webpage URL - http://learningsystem.free.nf/ 
+, Username - johndoe
+, Password - user
